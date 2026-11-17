@@ -1,0 +1,2 @@
+# Treding-otomatis
+Treding otomatis
